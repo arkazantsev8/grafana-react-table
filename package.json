@@ -1,14 +1,14 @@
 {
-  "name": "simple-react-panel",
+  "name": "arkazantsev8-react-table",
   "version": "1.0.0",
-  "description": "Grafana RSS Panel",
+  "description": "React Table",
   "scripts": {
     "build": "grafana-toolkit plugin:build",
     "test": "grafana-toolkit plugin:test",
     "dev": "grafana-toolkit plugin:dev",
     "watch": "grafana-toolkit plugin:dev --watch"
   },
-  "author": "Grafana Labs",
+  "author": "Artem Kazantsev",
   "license": "Apache-2.0",
   "devDependencies": {
     "@grafana/data": "latest",
