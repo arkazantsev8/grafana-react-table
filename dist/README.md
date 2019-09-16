@@ -1,22 +1,3 @@
-# Simple React Panel
+# React Table plugin for Grafana
 
-This is just a stub to show how to create a basic visualization plugin
-
-
-To work with this plugin run:
-```
-yarn dev
-```
-
-or
-```
-yarn watch
-```
-
-This will run linting tools and apply prettier fix.
-
-
-To build the plugin run:
-```
-yarn build
-```
+Based on react-table: https://github.com/tannerlinsley/react-table
