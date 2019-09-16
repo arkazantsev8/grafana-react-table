@@ -1,0 +1,28 @@
+{
+  "type": "panel",
+  "name": "React Table",
+  "id": "arkazantsev8-react-table",
+
+  "info": {
+    "description": "Simple React Panel",
+    "author": {
+      "name": "Artem Kazantsev"
+    },
+    "keywords": ["React", "Table"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {"name": "Website", "url": "https://github.com/arkazantsev8/grafana-react-table"}
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
