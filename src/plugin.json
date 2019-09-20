@@ -4,7 +4,7 @@
   "id": "arkazantsev8-react-table",
 
   "info": {
-    "description": "Simple React Panel",
+    "description": "React Table Plugin for Grafana based on react-table package",
     "author": {
       "name": "Artem Kazantsev"
     },
