@@ -20,7 +20,7 @@
     "@types/react-csv": "^1.1.1",
     "@types/react-table": "^6.8.5",
     "install": "^0.13.0",
-    "npm": "^6.11.3",
+    "npm": "^6.14.6",
     "numeral": "^2.0.6",
     "percentile": "^1.2.2",
     "rainbowvis.js": "^1.0.1",
